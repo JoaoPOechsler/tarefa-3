@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: calc(100% -40px);
+    color: #fff;
+    background: -webkit-linear-gradient(to left, blueviolet, #58dbf8);  
+    background: linear-gradient(to left, blueviolet, #58dbf8); 
+
+}

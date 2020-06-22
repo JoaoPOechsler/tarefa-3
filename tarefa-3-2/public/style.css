@@ -1,0 +1,11 @@
+html, body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px;
+    width: 100%;
+    color: white;
+    background-color:blueviolet;
+}
+
+ .textos{
+    margin: 11px 28px 24px 663px;
+ }
